@@ -1,2 +1,9 @@
-# html
-on the way to learn web devlopment 
+<html>
+  <head>
+  </head>
+  <body>
+    <p> this is my first step towards frontend journey &#128525 </p>
+    </html>
+
+
+
